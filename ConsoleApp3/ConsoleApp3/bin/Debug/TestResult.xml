@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-10-06" time="15:10:16">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8762" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="FALPPLT-AFAHEY2" user="adam.fahey" user-domain="TYLER" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe" executed="True" result="Failure" success="False" time="7.488" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ConsoleApp3" executed="True" result="Failure" success="False" time="7.475" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="WebDriverTest" executed="True" result="Failure" success="False" time="7.473" asserts="0">
+            <results>
+              <test-case name="ConsoleApp3.WebDriverTest.SampleTest" executed="True" result="Success" success="True" time="0.115" asserts="0" />
+              <test-case name="ConsoleApp3.WebDriverTest.sampletestwebdriver" executed="True" result="Failure" success="False" time="7.340" asserts="0">
+                <failure>
+                  <message><![CDATA[  Expected: True
+  But was:  False
+]]></message>
+                  <stack-trace><![CDATA[at ConsoleApp3.WebDriverTest.sampletestwebdriver() in C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\WebDriverTest.cs:line 39
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
