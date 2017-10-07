@@ -113,3 +113,12 @@ C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp
 C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\slow-nunit-tests.dll
 C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\nunitlite.dll
 C:\Users\adam.fahey\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\nunit.framework.xml
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\WebDriver.dll
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\WebDriver.Support.dll
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\WebDriver.xml
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\bin\Debug\WebDriver.Support.xml
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\afahe\Documents\GitHub\AutomationSeleniumNunitSample\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

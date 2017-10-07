@@ -23,22 +23,46 @@ namespace ConsoleApp3
             int b = 10;
 
             Assert.AreEqual(a, b);
-
+            
         
         }
 
-        [Test]
+
+        /// <summary>
+        /// Creating actual test case setup.
+        /// </summary>
+
+
+
+        IWebDriver driver;                                                       // Outside so others can use.
+       
+        [SetUp]                                                                 //Setup attribute
+        public void setup()
+        {
+            driver = new ChromeDriver();                                       //Setting up the driver. 
+        }
+
+
+
+
+
+        [Test]                                                                // Here is the actual test
 
         public void sampletestwebdriver()
         {
-
-
-            IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("http://www.thetestroom.com/webapp");
+            Assert.True(driver.Url.Contains("webapp"));                      // Verifying that the url contains the "webapp"
+        
 
-            Assert.True(driver.Url.Contains("helloworld"));                      // Verifying that the url contains the "webapp"
+
+        }
+        [TearDown]                                                          // Tead down attribute
+        public void tearDown()
+        {
+
             driver.Close();
-
+            driver.Quit();
+            
 
         }
 
